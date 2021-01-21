@@ -15,9 +15,9 @@ Now that you have CV you have to write a [Vcard](https://tinyurl.com/ygu4o7r) (v
 
 ## Instructions
 - [x] create the repository
-- [ ] write your Vcard in HTML and CSS
-- [ ] use CSS positioning to make a unique card
-- [ ] commit/push
+- [x] write your Vcard in HTML and CSS
+- [x] use CSS positioning to make a unique card
+- [x] commit/push
 - [x] deploy on a Github page
 
 ## Optional
