@@ -19,6 +19,32 @@ body {
     box-shadow: 20px 20px 20px 10px #464646;
 }
 
+h1 {
+    font-size: 28px;
+    color: white;
+}
+
+h2 {
+    font-size: 24px;
+    color: white;
+}
+
+h3 {
+    font-size: 20px;
+    color: white;
+}
+
+h4 {
+    font-size: 18px;
+    color: white;
+}
+
+
+p, li {
+    font-size: 16px;
+    color: #fefefe;
+}
+
 #grid {
     display: grid;
     grid-template-columns: 100%;
@@ -26,7 +52,6 @@ body {
 }
 
 #gridTop {
-    color: white;
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     background-color: black;
@@ -69,7 +94,7 @@ body {
 #gridBottom {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
-    background-color: blanchedalmond;
+    background-color: #eaeceb;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 100%;
