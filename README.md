@@ -30,4 +30,5 @@ Now that you have CV you have to write a [Vcard](https://tinyurl.com/ygu4o7r) (v
 * [CSS layout](http://learnlayout.com/)
 
 Link to [my Vcard](https://luisromeroaraya.github.io/Vcard)
+
 Link to [reference Vcard](http://www.rbista.com/zwin/html/)
