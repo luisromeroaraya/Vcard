@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    height: 50%;
+    height: 40%;
     width: 50%;
     margin: auto;
     margin-top: 50px;
@@ -48,7 +48,7 @@ p, li {
 #grid {
     display: grid;
     grid-template-columns: 100%;
-    grid-template-rows: 7fr 3fr;
+    grid-template-rows: 5fr 2.5fr;
 }
 
 #gridTop {
